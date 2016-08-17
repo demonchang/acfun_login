@@ -3,7 +3,7 @@
 import urllib, urllib2, cookielib, re, time, requests
 
 LOGIN_URL = 'http://passport.acfun.tv/login.aspx'
-ACCOUNT = 'YOURCOUNT'
+ACCOUNT = 'YOURACCOUNT'
 PWD = 'PASSWORD'
 
 class Acfun(object):
